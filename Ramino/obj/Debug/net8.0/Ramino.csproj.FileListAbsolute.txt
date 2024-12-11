@@ -1,0 +1,11 @@
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\bin\Debug\net8.0\Ramino.deps.json
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\bin\Debug\net8.0\Ramino.dll
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\bin\Debug\net8.0\Ramino.pdb
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\obj\Debug\net8.0\Ramino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\obj\Debug\net8.0\Ramino.AssemblyInfoInputs.cache
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\obj\Debug\net8.0\Ramino.AssemblyInfo.cs
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\obj\Debug\net8.0\Ramino.csproj.CoreCompileInputs.cache
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\obj\Debug\net8.0\Ramino.dll
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\obj\Debug\net8.0\refint\Ramino.dll
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\obj\Debug\net8.0\Ramino.pdb
+C:\Users\chiara.fusaroli\source\repos\Ramino\Ramino\obj\Debug\net8.0\ref\Ramino.dll

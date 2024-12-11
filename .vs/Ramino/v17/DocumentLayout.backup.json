@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario.latifi\\Downloads\\Ramino\\Ramino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|c:\\users\\mario.latifi\\downloads\\ramino\\ramino\\ramino\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|solutionrelative:ramino\\torneo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|c:\\users\\mario.latifi\\downloads\\ramino\\ramino\\ramino\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8B370D-2771-4E1B-8280-EC5932E236EE}|Ramino\\Ramino.csproj|solutionrelative:ramino\\giocatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Torneo.cs",
+              "DocumentMoniker": "C:\\Users\\mario.latifi\\Downloads\\Ramino\\Ramino\\Ramino\\Torneo.cs",
+              "RelativeDocumentMoniker": "Ramino\\Torneo.cs",
+              "ToolTip": "C:\\Users\\mario.latifi\\Downloads\\Ramino\\Ramino\\Ramino\\Torneo.cs",
+              "RelativeToolTip": "Ramino\\Torneo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:48:38.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Giocatore.cs",
+              "DocumentMoniker": "C:\\Users\\mario.latifi\\Downloads\\Ramino\\Ramino\\Ramino\\Giocatore.cs",
+              "RelativeDocumentMoniker": "Ramino\\Giocatore.cs",
+              "ToolTip": "C:\\Users\\mario.latifi\\Downloads\\Ramino\\Ramino\\Ramino\\Giocatore.cs",
+              "RelativeToolTip": "Ramino\\Giocatore.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:38:56.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
